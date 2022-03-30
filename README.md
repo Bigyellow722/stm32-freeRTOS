@@ -1,6 +1,6 @@
 # freeRTOS based on stm32
 
-This project is a demo for useing freeRTOS on stm32.
+This project is a demo for using freeRTOS on stm32.
 
 ## how to build
 
