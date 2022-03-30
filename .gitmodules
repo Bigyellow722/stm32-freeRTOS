@@ -1,0 +1,6 @@
+[submodule "src/arch/st/STM32-base"]
+	path = src/arch/st/STM32-base
+	url = git@github.com:STM32-base/STM32-base.git
+[submodule "src/bsp/st/STM32-base-STM32Cube"]
+	path = src/bsp/st/STM32-base-STM32Cube
+	url = git@github.com:STM32-base/STM32-base-STM32Cube.git
